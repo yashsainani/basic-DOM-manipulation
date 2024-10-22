@@ -1,4 +1,5 @@
 # Basic JavaScript DOM Manipulation Project
+[https://yashsainani.github.io/basic-DOM-manipulation/](https://yashsainani.github.io/basic-DOM-manipulation/)
 
 ## Overview
 
@@ -22,4 +23,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yashsainani/basic-DOM-manipulation.git
